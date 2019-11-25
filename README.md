@@ -17,5 +17,7 @@ Eigen: For matrix manipulation [Click here to find more](http://eigen.tuxfamily.
 MKL: If u wanna the code run faster than python, then u need this.[Click here to find more](https://software.intel.com/en-us/mkl)
 
 # performance comparison
-This project(C++)[TAB]:[TAB]0.0005s average time per iteration;  
-origin project(PYTHON)[TAB]:[TAB]0.0013s average time per iteration; 
+This project(C++):  
+0.0005s average time per iteration;  
+origin project(PYTHON):  
+0.0013s average time per iteration; 
