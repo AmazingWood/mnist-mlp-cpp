@@ -13,4 +13,8 @@ LangVer : C++ 17
 # 3rd party libs
 Boost 1.71.0: For Endian Library [Click here to find more](https://www.boost.org/)  
 Eigen: For matrix manipulation [Click here to find more](http://eigen.tuxfamily.org/dox/group__TutorialMatrixClass.html)  
-MKL: Math Kernel Library, if u wanna the code run faster than python, then u need this.[Click here to find more](https://software.intel.com/en-us/mkl)
+MKL: If u wanna the code run faster than python, then u need this.[Click here to find more](https://software.intel.com/en-us/mkl)
+
+# performance comparison
+This project: 0.0005s average time per iteration;  
+origin project: 0.0013s average time per iteration; 
