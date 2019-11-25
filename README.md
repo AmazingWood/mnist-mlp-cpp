@@ -10,6 +10,7 @@ He is really a master in this kind of staff.
 System : Windows 10  
 IDE : Visual Studio 2017  
 LangVer : C++ 17  
+Database : minst
 
 # 3rd party libs
 Boost 1.71.0: For Endian Library [Click here to find more](https://www.boost.org/)  
