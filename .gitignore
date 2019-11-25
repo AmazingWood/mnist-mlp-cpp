@@ -1,0 +1,5 @@
+mnist_smlp/x64/Release/
+mnist_smlp/x64/Debug/
+.vs/
+x64/Debug/
+x64/Release/
