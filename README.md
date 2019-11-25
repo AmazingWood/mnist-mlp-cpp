@@ -1,5 +1,5 @@
 # minst-mlp-cpp
-A two layers multiple layers pereptron.  
+A two layers multiple layers perceptron.  
 I transport it from python to c++.  
 It just prove that C++ can do machine/deep learning better than python.  
 U can download the python version on https://www.ituring.com.cn/book/1921  
